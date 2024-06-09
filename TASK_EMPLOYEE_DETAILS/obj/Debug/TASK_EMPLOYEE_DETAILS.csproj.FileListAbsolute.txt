@@ -1,0 +1,15 @@
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\bin\Debug\TASK_EMPLOYEE_DETAILS.exe.config
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\bin\Debug\TASK_EMPLOYEE_DETAILS.exe
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\bin\Debug\TASK_EMPLOYEE_DETAILS.pdb
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS.csproj.AssemblyReference.cache
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\MainWindow.g.cs
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\App.g.cs
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS_MarkupCompile.cache
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS_MarkupCompile.lref
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\MainWindow.baml
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS.g.resources
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS.Properties.Resources.resources
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS.csproj.GenerateResource.cache
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS.csproj.CoreCompileInputs.cache
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS.exe
+C:\Users\igexclpt-075\Desktop\Task-vikncodes\TASK_EMPLOYEE_DETAILS\TASK_EMPLOYEE_DETAILS\obj\Debug\TASK_EMPLOYEE_DETAILS.pdb
